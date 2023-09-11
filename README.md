@@ -38,7 +38,7 @@
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Rubik Cubes
+- Rubik's Cubes
 - Volleyball
 
 
